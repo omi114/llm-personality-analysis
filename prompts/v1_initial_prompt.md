@@ -111,7 +111,7 @@ Conduct a comprehensive growth-oriented analysis of **[COMPANY NAME]** stock for
 
 ## Results When Used
 
-### Uber Stock Analysis (November 2024)
+### Uber Stock Analysis (November 2025)
 
 | Model | Output |
 |-------|---------|
