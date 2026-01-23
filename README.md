@@ -2,9 +2,6 @@
 
 **TL;DR:** I gave GPT-5.1 and Gemini 3 identical instructions for stock analysis. GPT wrote 3,100 words, Gemini wrote 1,350 words. Both claimed to follow the prompt. This reveals how RLHF creates stable behavioral patterns that systematically resist explicit instruction—with implications for AI alignment.
 
-[![Blog Post Part 1](https://img.shields.io/badge/Blog-Part%201:%20The%20Behavior-blue)](SUBSTACK_URL)
-[![Blog Post Part 2](https://img.shields.io/badge/Blog-Part%202:%20The%20Mechanism-green)](SUBSTACK_URL)
-
 ---
 
 ## Key Findings
